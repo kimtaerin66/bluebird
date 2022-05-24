@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bluebird/static/css/main.c0bb3f5d.css",
-    "main.js": "/bluebird/static/js/main.d8329772.js",
+    "main.css": "/bluebird/static/css/main.c06be838.css",
+    "main.js": "/bluebird/static/js/main.fb02e7c2.js",
     "index.html": "/bluebird/index.html",
-    "main.c0bb3f5d.css.map": "/bluebird/static/css/main.c0bb3f5d.css.map",
-    "main.d8329772.js.map": "/bluebird/static/js/main.d8329772.js.map"
+    "main.c06be838.css.map": "/bluebird/static/css/main.c06be838.css.map",
+    "main.fb02e7c2.js.map": "/bluebird/static/js/main.fb02e7c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0bb3f5d.css",
-    "static/js/main.d8329772.js"
+    "static/css/main.c06be838.css",
+    "static/js/main.fb02e7c2.js"
   ]
 }
